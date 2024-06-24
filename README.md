@@ -1,7 +1,3 @@
-Based on the repository content, here is a draft for the README:
-
----
-
 # mac-script-shell
 
 This repository contains a collection of shell scripts to optimize and maintain your macOS system. These scripts help in cleaning caches, updating Homebrew, optimizing memory, and more.
